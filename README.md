@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinking123
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN STACK
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning BackEnd Dev
 - 💞️ I’m looking to collaborate on interactive open source projects
 
 <!---
