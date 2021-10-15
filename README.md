@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinking123
+- 👋 Hello All, I’m @sinking123
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning BackEnd Dev
 - 💞️ I’m looking to collaborate on interactive open source projects
